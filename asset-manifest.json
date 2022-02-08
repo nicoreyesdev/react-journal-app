@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-journal-app/static/css/main.fbefa144.css",
-    "main.js": "/react-journal-app/static/js/main.874f4dc0.js",
+    "main.js": "/react-journal-app/static/js/main.59400416.js",
     "index.html": "/react-journal-app/index.html",
     "main.fbefa144.css.map": "/react-journal-app/static/css/main.fbefa144.css.map",
-    "main.874f4dc0.js.map": "/react-journal-app/static/js/main.874f4dc0.js.map"
+    "main.59400416.js.map": "/react-journal-app/static/js/main.59400416.js.map"
   },
   "entrypoints": [
     "static/css/main.fbefa144.css",
-    "static/js/main.874f4dc0.js"
+    "static/js/main.59400416.js"
   ]
 }
