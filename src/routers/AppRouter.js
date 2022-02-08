@@ -48,9 +48,9 @@ export const AppRouter = () => {
         <Router>
             
                 <Switch>
-                    <PublicRoute path="/auth" component={AuthRouter} isAuthenticated={isLoggedIn}/>
-                    <PrivateRoute exact isAuthenticated={isLoggedIn} path="/" component={JournalScreen}/> 
-                    <Redirect to="/auth/login" />
+                    <PublicRoute path="/react-journal-app/auth" component={AuthRouter} isAuthenticated={isLoggedIn}/>
+                    <PrivateRoute exact isAuthenticated={isLoggedIn} path="/react-journal-app/" component={JournalScreen}/> 
+                    <Redirect to="/react-journal-app/auth/login" />
                 </Switch>
             
         </Router>

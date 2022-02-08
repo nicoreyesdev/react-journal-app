@@ -9,9 +9,9 @@ export const AuthRouter = () => {
 
             <div className='auth__box-container'>
             <Switch>
-                <Route exact path="/auth/login" component={LoginScreen}/>
-                <Route exact path="/auth/register" component={RegisterScreen}/>
-                <Redirect to="/auth/login" />
+                <Route exact path="/react-journal-app/auth/login" component={LoginScreen}/>
+                <Route exact path="/react-journal-app/auth/register" component={RegisterScreen}/>
+                <Redirect to="/react-journal-app/auth/login" />
             </Switch>
             </div>
 
