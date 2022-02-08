@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-journal-app/static/css/main.fbefa144.css",
+    "main.js": "/react-journal-app/static/js/main.fa680a83.js",
+    "index.html": "/react-journal-app/index.html",
+    "main.fbefa144.css.map": "/react-journal-app/static/css/main.fbefa144.css.map",
+    "main.fa680a83.js.map": "/react-journal-app/static/js/main.fa680a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbefa144.css",
+    "static/js/main.fa680a83.js"
+  ]
+}
