@@ -1,0 +1,21 @@
+[debug] [2022-02-08T19:56:00.386Z] ----------------------------------------------------------------------
+[debug] [2022-02-08T19:56:00.388Z] Command:       C:\Users\nicor\node.exe C:\Users\nicor\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-02-08T19:56:00.388Z] CLI Version:   10.1.5
+[debug] [2022-02-08T19:56:00.388Z] Platform:      win32
+[debug] [2022-02-08T19:56:00.388Z] Node Version:  v16.13.1
+[debug] [2022-02-08T19:56:00.389Z] Time:          Tue Feb 08 2022 16:56:00 GMT-0300 (hora estándar de Uruguay)
+[debug] [2022-02-08T19:56:00.389Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-02-08T19:56:00.398Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-02-08T19:56:00.398Z] > authorizing via signed-in user (nicorefee@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\users\nicor\react\journal-app
+

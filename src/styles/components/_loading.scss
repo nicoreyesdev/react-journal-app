@@ -1,0 +1,14 @@
+.loading {
+    align-items: center;
+    display: flex;
+    background-color: $primary;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+}
+.loading-title {
+    color: white;
+    font-size: 40px;
+}
